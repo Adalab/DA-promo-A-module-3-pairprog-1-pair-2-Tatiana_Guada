@@ -2,7 +2,7 @@
 
 # Semana 23/05-27/05
 -Miércoles 25/05:
-Estadísticos 1 -> Terminado. Revisar algunas frases para aclarar el concepto
+Estadísticos 1 -> Terminado.
 Regresión 1 -> Terminado
 
 -Jueves 26/05:
